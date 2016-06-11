@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: Some great pictures of Liam throughout his life...
-datePublished: '2016-04-17T09:30:48.125Z'
-dateModified: '2016-04-17T07:15:29.618Z'
+datePublished: '2016-06-11T16:32:17.213Z'
+dateModified: '2016-06-11T16:32:16.274Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-16-some-great-pictures-of-liam-throughout-his-life.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: some-great-pictures-of-liam-throughout-his-life/index.html
 _type: Article
 
